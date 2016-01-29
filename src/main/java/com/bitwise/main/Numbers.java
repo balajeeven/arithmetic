@@ -5,7 +5,5 @@ package com.bitwise.main;
  */
 public class Numbers {
     int number;
-    public Numbers(int number) {
-        this.number=number;
-    }
+   
 }
