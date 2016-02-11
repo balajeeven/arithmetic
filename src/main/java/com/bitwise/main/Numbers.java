@@ -1,3 +1,1 @@
-package com.bitwise.main;
-
-/**
+main
